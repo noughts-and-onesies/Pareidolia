@@ -1,118 +1,118 @@
 
-# admiral-ackbar-radio
+# Admiral ackbar radio
 ![](images/admiral-ackbar-radio.jpg)
 
-# all-had-a-few
+# All had a few
 ![](images/all-had-a-few.jpg)
 
-# boney
+# Boney
 ![](images/boney.jpg)
 
-# caught-in-the-act
+# Caught in the act
 ![](images/caught-in-the-act.jpg)
 
-# coin-face
+# Coin face
 ![](images/coin-face.jpg)
 
-# drunken-hook-face
+# Drunken hook face
 ![](images/drunken-hook-face.jpg)
 
-# earbuds-robot
+# Earbuds robot
 ![](images/earbuds-robot.jpg)
 
-# easyjet-window
+# Easyjet window
 ![](images/easyjet-window.jpg)
 
-# et-chrome-gnome
+# Et chrome gnome
 ![](images/et-chrome-gnome.jpg)
 
-# etihad
+# Etihad
 ![](images/etihad.jpg)
 
-# fan-heater-struggle
+# Fan heater struggle
 ![](images/fan-heater-struggle.jpg)
 
-# happy-coffee
+# Happy coffee
 ![](images/happy-coffee.jpg)
 
-# happy-dishwasher
+# Happy dishwasher
 ![](images/happy-dishwasher.jpg)
 
-# haunted-floorboard
+# Haunted floorboard
 ![](images/haunted-floorboard.jpg)
 
-# inquisitive
+# Inquisitive
 ![](images/inquisitive.jpg)
 
-# lift
+# Lift
 ![](images/lift.jpg)
 
-# magnum-pi
+# Magnum pi
 ![](images/magnum-pi.jpg)
 
-# maria-box-face
+# Maria box face
 ![](images/maria-box-face.jpg)
 
-# mechanical-owl
+# Mechanical owl
 ![](images/mechanical-owl.jpg)
 
-# mr-moustache-cat
+# Mr moustache cat
 ![](images/mr-moustache-cat.jpg)
 
-# mr-nosey-bin
+# Mr nosey bin
 ![](images/mr-nosey-bin.jpg)
 
-# mr-nosey-boat
+# Mr nosey boat
 ![](images/mr-nosey-boat.jpg)
 
-# my-cigarettes-now
+# My cigarettes now
 ![](images/my-cigarettes-now.jpg)
 
-# my-sushi-now
+# My sushi now
 ![](images/my-sushi-now.jpg)
 
-# nann-in-the-moon
+# Nann in the moon
 ![](images/nann-in-the-moon.jpg)
 
-# not-what-you-have-done
+# Not what you have done
 ![](images/not-what-you-have-done.jpg)
 
-# ojo-horror-face
+# Ojo horror face
 ![](images/ojo-horror-face.jpg)
 
-# ooh
+# Ooh
 ![](images/ooh.jpg)
 
-# ooh-landrover
+# Ooh landrover
 ![](images/ooh-landrover.jpg)
 
-# postie-face
+# Postie face
 ![](images/postie-face.jpg)
 
-# rad-face
+# Rad face
 ![](images/rad-face.jpg)
 
-# roy-wood
+# Roy wood
 ![](images/roy-wood.jpg)
 
-# shocking
+# Shocking
 ![](images/shocking.jpg)
 
-# smiley-phone
+# Smiley phone
 ![](images/smiley-phone.jpg)
 
-# sweet-seat
+# Sweet seat
 ![](images/sweet-seat.jpg)
 
-# thameslink-seat-face
+# Thameslink seat face
 ![](images/thameslink-seat-face.jpg)
 
-# trump-hinge
+# Trump hinge
 ![](images/trump-hinge.jpg)
 
-# two-girls-one-footstool
+# Two girls one footstool
 ![](images/two-girls-one-footstool.jpg)
 
-# yey
+# Yey
 ![](images/yey.jpg)
 

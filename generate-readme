@@ -2,7 +2,7 @@
 
 readme=readme.md
 
-# Remove
+# Create a new readme
 echo > $readme
 
 for image in images/*.jpg; do
@@ -13,6 +13,10 @@ for image in images/*.jpg; do
 	# Trim the image name
 	title=${image%*.jpg}
 	title=${title#*/}
+
+	# Remove the hyphens and capitalise
+	title=${title//-/ }
+	title=${title^}
 
 	# Create link to each image
 	echo "# $title" >> $readme
