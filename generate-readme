@@ -2,8 +2,8 @@
 
 readme=readme.md
 
-# Create readme
-touch $readme
+# Remove
+echo > $readme
 
 for image in images/*.jpg; do
 
