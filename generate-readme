@@ -7,11 +7,14 @@ echo -e "# Pareidolia\n" > $readme
 
 for image in images/*.jpg; do
 
+	# Store the full path
+	imagepath=$image
+
 	# Trim the image name
 	title=${image%*.jpg}
 	title=${title#*/}
 
 	# Create link to each image
 	echo "## $title" >> $readme
-	echo -e "![](images/$title)\n" >> $readme
+	echo -e "![]($imagepath)\n" >> $readme
 done
