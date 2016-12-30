@@ -44,8 +44,8 @@
 # Inquisitive
 ![](images/inquisitive.jpg)
 
-# Lift
-![](images/lift.jpg)
+# Lift gopher
+![](images/lift-gopher.jpg)
 
 # Magnum pi
 ![](images/magnum-pi.jpg)
