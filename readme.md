@@ -1,4 +1,3 @@
-
 # Admiral ackbar radio
 ![](images/admiral-ackbar-radio.jpg)
 
