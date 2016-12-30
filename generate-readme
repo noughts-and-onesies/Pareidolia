@@ -2,8 +2,8 @@
 
 readme=readme.md
 
-# Create title and readme
-echo -e "# Pareidolia\n" > $readme
+# Create readme
+touch $readme
 
 for image in images/*.jpg; do
 
@@ -15,6 +15,6 @@ for image in images/*.jpg; do
 	title=${title#*/}
 
 	# Create link to each image
-	echo "## $title" >> $readme
+	echo "# $title" >> $readme
 	echo -e "![]($imagepath)\n" >> $readme
 done
