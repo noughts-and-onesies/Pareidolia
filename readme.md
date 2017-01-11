@@ -11,8 +11,8 @@
 # Ayubowa by EK
 ![](images/ayubowa-by-EK.jpg)
 
-# Boney
-![](images/boney.jpg)
+# Boney by LM
+![](images/boney-by-LM.jpg)
 
 # Cap n hook
 ![](images/Cap-n-hook.jpg)
@@ -20,8 +20,8 @@
 # Case face
 ![](images/Case-face.jpg)
 
-# Caught in the act
-![](images/caught-in-the-act.jpg)
+# Caught in the act by JS
+![](images/caught-in-the-act-by-JS.jpg)
 
 # Chins
 ![](images/Chins.jpg)
