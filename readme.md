@@ -8,6 +8,9 @@
 # All had a few
 ![](images/all-had-a-few.jpg)
 
+# Ayubowa by EK
+![](images/ayubowa-by-EK.jpg)
+
 # Boney
 ![](images/boney.jpg)
 
@@ -28,9 +31,6 @@
 
 # Dashboard face
 ![](images/Dashboard-face.jpg)
-
-# Diamond eyes by EK
-![](images/diamond-eyes-by-EK.jpg)
 
 # Don't know what to say
 ![](images/Don't-know-what to-say.jpg)
