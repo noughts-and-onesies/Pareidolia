@@ -80,6 +80,9 @@
 # Happy Gu lucky
 ![](images/Happy-Gu-lucky.jpg)
 
+# Happy light face by DW
+![](images/happy-light-face-by-DW.jpg)
+
 # Happy tappy
 ![](images/Happy-tappy.jpg)
 
