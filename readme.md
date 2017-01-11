@@ -38,9 +38,6 @@
 # Down cast
 ![](images/Down-cast.jpg)
 
-# Drunken hook face
-![](images/drunken-hook-face.jpg)
-
 # Earbuds robot
 ![](images/earbuds-robot.jpg)
 
