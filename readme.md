@@ -50,9 +50,6 @@
 # Elbonian
 ![](images/Elbonian.jpg)
 
-# Et chrome gnome
-![](images/et-chrome-gnome.jpg)
-
 # Etihad
 ![](images/etihad.jpg)
 
@@ -113,8 +110,8 @@
 # Maria box face
 ![](images/maria-box-face.jpg)
 
-# Mechanical owl
-![](images/mechanical-owl.jpg)
+# Mechanical owl by JW
+![](images/mechanical-owl-by-JW.jpg)
 
 # Mr moustache cat
 ![](images/mr-moustache-cat.jpg)
@@ -122,8 +119,8 @@
 # Mr nosey bin
 ![](images/mr-nosey-bin.jpg)
 
-# Mr nosey boat
-![](images/mr-nosey-boat.jpg)
+# Mr nosey boat by JW
+![](images/mr-nosey-boat-by-JW.jpg)
 
 # My cigarettes now
 ![](images/my-cigarettes-now.jpg)
@@ -131,8 +128,8 @@
 # My sushi now
 ![](images/my-sushi-now.jpg)
 
-# Nann in the moon
-![](images/nann-in-the-moon.jpg)
+# Naan in the moon by JN
+![](images/naan-in-the-moon-by-JN.jpg)
 
 # Nice legs, butter face
 ![](images/Nice-legs,-butter-face.jpg)
@@ -188,8 +185,8 @@
 # Sit on my face
 ![](images/Sit-on-my-face.jpg)
 
-# Smiley phone
-![](images/smiley-phone.jpg)
+# Smiley phone by ST
+![](images/smiley-phone-by-ST.jpg)
 
 # Speaker face
 ![](images/Speaker-face.jpg)
@@ -197,8 +194,8 @@
 # Sucker
 ![](images/Sucker.jpg)
 
-# Sweet seat
-![](images/sweet-seat.jpg)
+# Sweet seat by DW
+![](images/sweet-seat-by-DW.jpg)
 
 # Tell them about the honey, Mummy
 ![](images/Tell-them-about-the-honey,-Mummy.jpg)
@@ -224,6 +221,6 @@
 # Yay!
 ![](images/Yay!.jpg)
 
-# Yey
-![](images/yey.jpg)
+# Yey by DH
+![](images/yey-by-DH.jpg)
 
