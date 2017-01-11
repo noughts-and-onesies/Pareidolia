@@ -113,14 +113,14 @@
 # Mechanical owl by JW
 ![](images/mechanical-owl-by-JW.jpg)
 
-# Mr moustache cat
-![](images/mr-moustache-cat.jpg)
+# Mr Moustache Cat
+![](images/Mr-Moustache-Cat.jpg)
 
-# Mr nosey bin
-![](images/mr-nosey-bin.jpg)
+# Mr Nosey Bin
+![](images/Mr-Nosey-Bin.jpg)
 
-# Mr nosey boat by JW
-![](images/mr-nosey-boat-by-JW.jpg)
+# Mr Nosey Boat by JW
+![](images/Mr-Nosey-Boat-by-JW.jpg)
 
 # My cigarettes now
 ![](images/my-cigarettes-now.jpg)
