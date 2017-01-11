@@ -98,8 +98,8 @@
 # I'm a big fan
 ![](images/I'm-a-big-fan.jpg)
 
-# Inquisitive
-![](images/inquisitive.jpg)
+# Inquisitive by PW
+![](images/inquisitive-by-PW.jpg)
 
 # Lift gopher
 ![](images/lift-gopher.jpg)
