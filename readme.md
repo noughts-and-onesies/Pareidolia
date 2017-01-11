@@ -104,8 +104,8 @@
 # Lift gopher
 ![](images/lift-gopher.jpg)
 
-# Magnum pi
-![](images/magnum-pi.jpg)
+# Magnum PI
+![](images/Magnum-PI.jpg)
 
 # Maria box face
 ![](images/maria-box-face.jpg)
