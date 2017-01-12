@@ -5,7 +5,7 @@ readme=readme.md
 # Create a new readme
 echo > $readme
 
-for image in images/*.jpg; do
+for image in $(ls -t images/*.jpg); do
 
 	# Store the full path
 	imagepath=$image
