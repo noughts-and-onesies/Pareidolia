@@ -1,4 +1,7 @@
 
+# Stormtrooper bin by GH
+![](images/stormtrooper-bin-by-GH.jpg)
+
 # Happy light face by DW
 ![](images/happy-light-face-by-DW.jpg)
 
