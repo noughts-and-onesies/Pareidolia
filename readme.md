@@ -1,4 +1,7 @@
 
+# Shocked lid face by KW
+![](images/shocked-lid-face-by-KW.jpg)
+
 # Stormtrooper bin by GH
 ![](images/stormtrooper-bin-by-GH.jpg)
 
