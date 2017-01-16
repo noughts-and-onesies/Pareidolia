@@ -1,4 +1,7 @@
 
+# Fangs a lot by LH
+![](images/fangs-a-lot-by-LH.jpg)
+
 # You are back early!
 ![](images/you-are-back-early!.gif)
 
