@@ -1,4 +1,7 @@
 
+# Mutant ninja smoke alarm by KW
+![](images/mutant-ninja-smoke-alarm-by-KW.jpg)
+
 # Fangs a lot by LH
 ![](images/fangs-a-lot-by-LH.jpg)
 
