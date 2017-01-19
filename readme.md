@@ -1,4 +1,7 @@
 
+# Dispenser face by HC
+![](images/dispenser-face-by-HC.jpg)
+
 # Mutant ninja smoke alarm by KW
 ![](images/mutant-ninja-smoke-alarm-by-KW.jpg)
 
