@@ -1,9 +1,6 @@
 
-# Photos
-![](images/Photos)
-
-# (1)
-![]((1).zip)
+# Smile bag
+![](images/smile-bag.jpg)
 
 # Happy table
 ![](images/happy-table.jpg)
