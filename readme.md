@@ -1,6 +1,6 @@
 
-# Smile bag
-![](images/smile-bag.jpg)
+# Shopping makes me happy
+![](images/shopping-makes-me-happy.jpg)
 
 # Happy table
 ![](images/happy-table.jpg)
