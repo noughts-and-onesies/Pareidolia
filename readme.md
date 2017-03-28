@@ -1,6 +1,6 @@
 
-# Monster face
-![](images/monster-face.jpg)
+# Monster face by CH
+![](images/monster-face-by-CH.jpg)
 
 # Shopping makes me happy
 ![](images/shopping-makes-me-happy.jpg)
