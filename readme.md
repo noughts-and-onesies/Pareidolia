@@ -1,4 +1,7 @@
 
+# Grandad face by JW
+![](images/grandad-face-by-JW.jpg)
+
 # Monster face by CH
 ![](images/monster-face-by-CH.jpg)
 
