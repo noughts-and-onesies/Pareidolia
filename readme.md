@@ -2,8 +2,8 @@
 # Saved by the bell by HB
 ![](images/saved-by-the-bell-by-HB.jpg)
 
-# What have I done? oven by JAC
-![](images/what-have-I-done?-oven-by-JAC.jpg)
+# What have I done oven by JAC
+![](images/what-have-I-done-oven-by-JAC.jpg)
 
 # Salty shock
 ![](images/salty-shock.jpg)
