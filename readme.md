@@ -5,9 +5,6 @@
 # What have I done oven by JAC
 ![](images/what-have-I-done-oven-by-JAC.jpg)
 
-# Salty shock
-![](images/salty-shock.jpg)
-
 # Grandad face by JW
 ![](images/grandad-face-by-JW.jpg)
 
