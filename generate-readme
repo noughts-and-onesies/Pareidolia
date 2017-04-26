@@ -1,6 +1,6 @@
 #!/bin/bash
 
-readme=readme.md
+readonly readme=readme.md
 
 # Create a new readme
 echo > $readme
