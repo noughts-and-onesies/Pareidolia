@@ -2,9 +2,6 @@
 # Haunted stone
 ![](images/haunted-stone.jpg)
 
-# Haunted playground
-![](images/haunted-playground.jpg)
-
 # Edvard face by GS
 ![](images/edvard-face-by-GS.jpg)
 
