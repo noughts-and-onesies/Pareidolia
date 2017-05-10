@@ -1,12 +1,18 @@
 
-# Hello sailor
-![](images/hello-sailor.jpg)
+# Haunted beach by PK
+![](images/haunted-beach-by-PK.jpg)
+
+# That got it
+![](images/that-got-it.jpg)
+
+# Hello sailor by AH
+![](images/hello-sailor-by-AH.jpg)
 
 # Usb
 ![](images/usb.jpg)
 
-# Roller
-![](images/roller.jpg)
+# Sloan roller by PE
+![](images/sloan-roller-by-PE.jpg)
 
 # Haunted stone
 ![](images/haunted-stone.jpg)
