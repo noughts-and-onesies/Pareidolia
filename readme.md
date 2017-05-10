@@ -1,4 +1,13 @@
 
+# Hello sailor
+![](images/hello-sailor.jpg)
+
+# Usb
+![](images/usb.jpg)
+
+# Roller
+![](images/roller.jpg)
+
 # Haunted stone
 ![](images/haunted-stone.jpg)
 
