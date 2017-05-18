@@ -1,15 +1,24 @@
 
-# Haunted beach by PK
-![](images/haunted-beach-by-PK.jpg)
+# Hair chair by JAC
+![](images/hair-chair-by-JAC.jpg)
+
+# Fusebox ambivalence
+![](images/fusebox-ambivalence.jpg)
+
+# What did she say
+![](images/what-did-she-say.jpg)
 
 # That got it
 ![](images/that-got-it.jpg)
 
+# Haunted beach by PK
+![](images/haunted-beach-by-PK.jpg)
+
 # Hello sailor by AH
 ![](images/hello-sailor-by-AH.jpg)
 
-# Usb
-![](images/usb.jpg)
+# USB
+![](images/USB.jpg)
 
 # Sloan roller by PE
 ![](images/sloan-roller-by-PE.jpg)
