@@ -1,4 +1,10 @@
 
+# Ring nose by VW
+![](images/ring-nose-by-VW.jpg)
+
+# Fangs a bunch
+![](images/fangs-a-bunch.jpg)
+
 # Hair chair by JAC
 ![](images/hair-chair-by-JAC.jpg)
 
