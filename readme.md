@@ -1,6 +1,6 @@
 
-# Rock face
-![](images/rock-face.jpg)
+# Rock face by PW
+![](images/rock-face-by-PW.jpg)
 
 # Ring nose by VW
 ![](images/ring-nose-by-VW.jpg)
