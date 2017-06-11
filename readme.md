@@ -1,4 +1,22 @@
 
+# Gaz the robot by NW
+![](images/gaz-the-robot-by-NW.jpg)
+
+# Bike face
+![](images/bike-face.jpg)
+
+# Mop face by MG
+![](images/mop-face-by-MG.jpg)
+
+# Boney face by DW
+![](images/boney-face-by-DW.jpg)
+
+# Tractor attractor by DW
+![](images/tractor-attractor-by-DW.jpg)
+
+# Vent face by TLH
+![](images/vent-face-by-TLH.jpg)
+
 # Rock face by PW
 ![](images/rock-face-by-PW.jpg)
 
@@ -13,9 +31,6 @@
 
 # Fusebox ambivalence
 ![](images/fusebox-ambivalence.jpg)
-
-# What did she say
-![](images/what-did-she-say.jpg)
 
 # That got it
 ![](images/that-got-it.jpg)
