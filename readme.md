@@ -1,4 +1,10 @@
 
+# Wall face by RGS
+![](images/wall-face-by-RGS.jpg)
+
+# Tray face by SP
+![](images/tray-face-by-SP.jpg)
+
 # Gaz the robot by NW
 ![](images/gaz-the-robot-by-NW.jpg)
 
