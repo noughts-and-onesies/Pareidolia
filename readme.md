@@ -1,4 +1,13 @@
 
+# I charge you by JG
+![](images/i-charge-you-by-JG.JPG)
+
+# You mine headphones now Dave by JG
+![](images/you-mine-headphones-now-Dave-by-JG.JPG)
+
+# Vacuum face by ST
+![](images/vacuum-face-by-ST.jpg)
+
 # Wall face by RGS
 ![](images/wall-face-by-RGS.jpg)
 
