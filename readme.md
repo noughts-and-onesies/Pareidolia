@@ -1,4 +1,13 @@
 
+# I am robot house by SS
+![](images/i-am-robot-house-by-SS.JPG)
+
+# Bag face
+![](images/bag-face.JPG)
+
+# Sad box face
+![](images/sad-box-face.jpg)
+
 # General Klytus
 ![](images/General-Klytus.jpg)
 
