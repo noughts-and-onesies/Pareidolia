@@ -1,4 +1,16 @@
 
+# Glum_tap
+![](images/glum_tap.jpg)
+
+# Pan face
+![](images/pan-face.jpg)
+
+# Alien_face
+![](images/alien_face.jpg)
+
+# Happy_heater
+![](images/happy_heater.jpg)
+
 # House shock
 ![](images/house-shock.JPG)
 
