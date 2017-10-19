@@ -1,4 +1,28 @@
 
+# Tape
+![](images/tape.JPG)
+
+# No rest room by LG
+![](images/no-rest-room-by-LG.jpg)
+
+# Ahoy
+![](images/ahoy.jpg)
+
+# Grandad knife face
+![](images/grandad-knife-face.jpg)
+
+# Crafty chimney by MM
+![](images/crafty-chimney-by-MM.jpg)
+
+# Pensive pants by PK
+![](images/pensive-pants-by-PK.jpg)
+
+# Wood_face
+![](images/wood_face.jpg)
+
+# Lost_soul_coffee_holder
+![](images/lost_soul_coffee_holder.jpg)
+
 # Scream
 ![](images/scream.jpg)
 
