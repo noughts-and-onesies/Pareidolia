@@ -14,9 +14,6 @@
 # Plug face by PW
 ![](images/plug-face-by-PW.jpg)
 
-# Rock face by DH
-![](images/rock-face-by-DH.jpg)
-
 # Tape
 ![](images/tape.JPG)
 
