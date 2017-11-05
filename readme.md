@@ -1,4 +1,22 @@
 
+# Oak face by DH
+![](images/oak-face-by-DH.jpg)
+
+# Texas cup face by GK
+![](images/texas-cup-face-by-GK.jpg)
+
+# Box face2 by TLH
+![](images/box-face2-by-TLH.jpg)
+
+# Box face1 by TLH
+![](images/box-face1-by-TLH.jpg)
+
+# Plug face by PW
+![](images/plug-face-by-PW.jpg)
+
+# Rock face by DH
+![](images/rock-face-by-DH.jpg)
+
 # Tape
 ![](images/tape.JPG)
 
