@@ -1,4 +1,7 @@
 
+# Balaclava palava by TH
+![](images/balaclava-palava-by-TH.jpg)
+
 # Avert your gaze by RC
 ![](images/avert-your-gaze-by-RC.jpg)
 
