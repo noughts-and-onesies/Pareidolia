@@ -1,4 +1,7 @@
 
+# Masked bandit by DH
+![](images/masked-bandit-by-DH.JPG)
+
 # Balaclava palava by TH
 ![](images/balaclava-palava-by-TH.jpg)
 
