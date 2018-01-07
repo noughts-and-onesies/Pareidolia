@@ -1,4 +1,28 @@
 
+# Contrail face by FB
+![](images/contrail-face-by-FB.jpg)
+
+# Fryer_face
+![](images/fryer_face.jpg)
+
+# Letterbox by RGS
+![](images/letterbox-by-RGS.jpg)
+
+# Small face by RGS
+![](images/small-face-by-RGS.jpg)
+
+# Rabbit_face2
+![](images/rabbit_face2.jpg)
+
+# Rabbit_face1
+![](images/rabbit_face1.jpg)
+
+# Hard_core_by_DH
+![](images/hard_core_by_DH.jpg)
+
+# Happy_sac_by_JW
+![](images/happy_sac_by_JW.jpg)
+
 # Masked bandit by DH
 ![](images/masked-bandit-by-DH.JPG)
 
