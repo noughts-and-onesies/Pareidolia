@@ -1,4 +1,28 @@
 
+# Tool_box_face
+![](images/tool_box_face.jpg)
+
+# Coat_hook_face
+![](images/coat_hook_face.jpg)
+
+# Happy_coach_face
+![](images/happy_coach_face.jpg)
+
+# Coffee_face2
+![](images/coffee_face2.jpg)
+
+# Coffee_face1
+![](images/coffee_face1.jpg)
+
+# Scale_face_by_SR
+![](images/scale_face_by_SR.jpg)
+
+# Wise_old_palm
+![](images/wise_old_palm.jpg)
+
+# Fountain_face
+![](images/fountain_face.jpg)
+
 # Off to me bank with me money
 ![](images/off-to-me-bank-with-me-money.jpg)
 
