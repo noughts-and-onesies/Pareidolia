@@ -1,4 +1,19 @@
 
+# Hand_dryer
+![](images/hand_dryer.jpg)
+
+# Robert_robot
+![](images/robert_robot.jpg)
+
+# Door_grill
+![](images/door_grill.jpg)
+
+# Letter_pouch
+![](images/letter_pouch.jpg)
+
+# Tombstone_face
+![](images/tombstone_face.jpg)
+
 # Tool_box_face
 ![](images/tool_box_face.jpg)
 
