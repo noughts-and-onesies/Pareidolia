@@ -1,4 +1,10 @@
 
+# One eyed Jake by DK
+![](images/one-eyed-Jake-by-DK.jpg)
+
+# Bin shock by RGS
+![](images/bin-shock-by-RGS.jpg)
+
 # Hand_dryer
 ![](images/hand_dryer.jpg)
 
