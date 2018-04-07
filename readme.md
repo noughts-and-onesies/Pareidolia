@@ -1,4 +1,7 @@
 
+# Remotely surprised by MKW
+![](images/remotely-surprised-by-MKW.jpg)
+
 # One eyed Jake by DK
 ![](images/one-eyed-Jake-by-DK.jpg)
 
