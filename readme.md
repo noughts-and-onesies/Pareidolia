@@ -1,4 +1,10 @@
 
+# House face by SS
+![](images/house-face-by-SS.jpg)
+
+# Pan face by_KS
+![](images/pan-face-by_KS.jpg)
+
 # That_is_the_spirit_by_SR
 ![](images/that_is_the_spirit_by_SR.jpg)
 
